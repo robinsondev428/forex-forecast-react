@@ -3,7 +3,7 @@
 Web app that helps users to find best possible time for converting money from one currency to another, using historical currency rates.<br />
 
 ## Demo
-Link to Demo App: https://sooryasoorya.github.io/react-forex-forecast/
+Link to Demo App: https://github.com/robinsondev428/forex-forecast-react.git
 
 ## How to Load the App
 
@@ -11,7 +11,7 @@ The project uses Node.js and the [Create React App](https://github.com/facebook/
 
 Once Node is installed, navigate to the directory where you want to store the app run commands:
 ```
-git clone https://github.com/SooryaSoorya/react-forex-forecast.git
+git clone https://github.com/robinsondev428/forex-forecast-react.git
 
 npm install
 ```
@@ -52,8 +52,6 @@ Your app is ready to be deployed!!
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).<br/>
 React hooks [React hooks](https://reactjs.org/docs/hooks-intro.html). <br/>
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-Feel free to ask me questions on Twitter [@Soorya](https://twitter.com/_soorya) , LinkedIn [@haisoorya](https://www.linkedin.com/in/haisoorya/) <br/>
 
 
 Happy coding:-)
